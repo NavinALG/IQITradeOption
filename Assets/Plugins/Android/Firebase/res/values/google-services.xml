@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://tradepeoption.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">619386706099</string>
+  <string name="google_storage_bucket" translatable="false">tradepeoption.appspot.com</string>
+  <string name="project_id" translatable="false">tradepeoption</string>
+  <string name="google_api_key" translatable="false">AIzaSyC7zIG4Vv2KUy4Q_VFpVgDdpFfqFqRX3uk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7zIG4Vv2KUy4Q_VFpVgDdpFfqFqRX3uk</string>
+  <string name="google_app_id" translatable="false">1:619386706099:android:1b7e77aaec25bc73d7b8c6</string>
+  <string name="default_web_client_id" translatable="false">619386706099-d7gehrcgqsf6angbirji4pie5bac4sf8.apps.googleusercontent.com</string>
+</resources>

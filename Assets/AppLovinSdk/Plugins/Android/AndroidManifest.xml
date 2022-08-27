@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.algmedia.tradepe">
+    <application>
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="4OHB3a_TttPgCRSo2P1zJcWnHT1HQsUVFmgILfnCXAukcKWfkTc2A8pRcqi2gCXwzDDIt_VP9N8nieQRC2TMAG" />
+    </application>
+</manifest>
